@@ -48,6 +48,7 @@ def reduce_to_total(source_array,starting_point=0)
      return false if array[i]==false 
      i += 1 
     end
+    return true
  end
 
 
